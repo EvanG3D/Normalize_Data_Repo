@@ -1,1 +1,5 @@
-Welcome to Normalize!
+{
+  "name": "John",
+  "age": 30,
+  "city": "New York"
+}
