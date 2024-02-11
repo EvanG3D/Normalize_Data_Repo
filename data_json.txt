@@ -1,0 +1,5 @@
+{
+  "news": "Update 9.2.2 Now Live!",
+  "key": 300,
+  "log": "Added controller support."
+}
