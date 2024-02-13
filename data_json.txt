@@ -1,5 +1,5 @@
 {
   "news": "Beta 0.0.0.1 Now Live!!!",
-  "key": 301,
+  "key": 300,
   "log": "Added controller support."
 }
